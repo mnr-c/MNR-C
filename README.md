@@ -2,3 +2,4 @@
 # mnrcoin
 # coin
 # MNR
+# MNR
